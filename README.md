@@ -1,4 +1,3 @@
-# Chinmay's portfolio [WIP]
 
 ## Getting Started
 
